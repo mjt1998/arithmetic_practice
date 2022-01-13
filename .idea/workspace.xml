@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af4ce2ce-3e9b-4522-9ac0-1479581cce59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MvnRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1w0r58y8Z6bJQUEz29pcOiF9F8Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.SelectSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mjt.day08.BubbleSort" />
+      <module name="arithmetic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mjt.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mjt.day08.InsertSort" />
+      <module name="arithmetic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mjt.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mjt.day08.MergeSort" />
+      <module name="arithmetic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mjt.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mjt.day08.SelectSort" />
+      <module name="arithmetic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mjt.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mjt.day07.SelectSort" />
+      <module name="arithmetic_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mjt.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.SelectSort (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af4ce2ce-3e9b-4522-9ac0-1479581cce59" name="Default Changelist" comment="" />
+      <created>1627606160195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627606160195</updated>
+      <workItem from="1627606163710" duration="72000" />
+      <workItem from="1627606408658" duration="4085000" />
+      <workItem from="1628344313869" duration="2461000" />
+      <workItem from="1628379491655" duration="6335000" />
+      <workItem from="1628506125294" duration="2248000" />
+      <workItem from="1628584578101" duration="2425000" />
+      <workItem from="1629093711605" duration="2302000" />
+      <workItem from="1629258673429" duration="10000" />
+      <workItem from="1630068504345" duration="1223000" />
+      <workItem from="1640423880074" duration="169000" />
+      <workItem from="1640844495733" duration="246000" />
+      <workItem from="1640845790495" duration="29000" />
+      <workItem from="1642057479743" duration="3408000" />
+      <workItem from="1642060951577" duration="569000" />
+      <workItem from="1642061564760" duration="311000" />
+      <workItem from="1642061925509" duration="108000" />
+      <workItem from="1642062111706" duration="163000" />
+      <workItem from="1642062320599" duration="441000" />
+      <workItem from="1642062877089" duration="744000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="131" key="#Project_Structure" timestamp="1642061045346">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1642061045346" />
+    <state x="767" y="392" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1642061795422">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="767" y="392" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1642061795422" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1642062896262">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1642062896262" />
+    <state width="2005" height="307" key="GridCell.Tab.0.bottom" timestamp="1642063627058">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1640424050438" />
+    <state width="2005" height="307" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1642063627058" />
+    <state width="2005" height="307" key="GridCell.Tab.0.center" timestamp="1642063627057">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1640424050438" />
+    <state width="2005" height="307" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1642063627057" />
+    <state width="2005" height="307" key="GridCell.Tab.0.left" timestamp="1642063627057">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1640424050437" />
+    <state width="2005" height="307" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1642063627057" />
+    <state width="2005" height="307" key="GridCell.Tab.0.right" timestamp="1642063627058">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1640424050438" />
+    <state width="2005" height="307" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1642063627058" />
+    <state x="505" y="131" key="SettingsEditor" timestamp="1642063146737">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1642063146737" />
+    <state x="724" y="154" width="600" height="804" key="find.popup" timestamp="1642062626230">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="724" y="154" width="600" height="804" key="find.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1642062626230" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1642058809077">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1642058809077" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/arithmetic_practice$BubbleSort.ic" NAME="BubbleSort Coverage Results" MODIFIED="1642062247116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mjt.day08.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/arithmetic_practice$SelectSort.ic" NAME="SelectSort Coverage Results" MODIFIED="1630069723768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mjt.day07.*</FILTER>
+    </SUITE>
+  </component>
+</project>
